@@ -10,5 +10,7 @@
 - [系统杀毒禁用 dControl 蓝奏云](https://arbor.lanzout.com/iOQFq38kky3e)
 - [系统更新禁用 Wub 官网](https://www.sordum.org/9470/windows-update-blocker-v1-8)
 - [系统更新禁用 Wub 蓝奏云](https://arbor.lanzout.com/ixlpN38kf4ef)
+- [空间占用查询 WizTree 官网](https://www.diskanalyzer.com/download)
+- [空间占用查询 WizTree 蓝奏云](https://arbor.lanzout.com/iFU4N3giskhi)
 
 ***
