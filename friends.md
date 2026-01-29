@@ -3,4 +3,3 @@
 ***
 [王勇博](https://wangyongbo.com/) | https://s2.loli.net/2022/11/27/QhkmBtI7xK2LGNb.jpg
 [牧码哟](https://guanpengchn.github.io/#/) | https://avatars.githubusercontent.com/u/13995641?v=4
-[莫忘](https://www.xrbk.cn) | https://www.xrbk.cn/img/site/me.jpg
